@@ -1,0 +1,6 @@
+require 'ipaddr'
+require 'active_merchant'
+require 'lolita-mobilly/custom_logger'
+require 'lolita-mobilly/billing'
+require 'lolita-mobilly/mobilly'
+require 'lolita-mobilly/rails'
